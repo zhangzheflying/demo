@@ -23,5 +23,8 @@
 hs_err_pid*
 
 # IntelliJ IDEA
-*.idea
+**/.idea
+**/target
 .idea
+
+
